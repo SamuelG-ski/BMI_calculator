@@ -1,0 +1,10 @@
+[
+    {
+        "name": "John Smith",
+        "weight": 100.0,
+        "height": 192.0,
+        "bmi": 27.13,
+        "interpretation": "Overweight",
+        "date": "2024-09-06 12:46:49"
+    }
+]
